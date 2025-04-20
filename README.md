@@ -1,67 +1,54 @@
-# [Your Full Name]
-📍 [City, State] • 📞 [Phone Number] • 📧 [Email Address] • 🌐 [LinkedIn/GitHub URL]
+# Your Name  
+📍 City, State • 📞 (123) 456-7890 • 📧 your.email@example.com • 🌐 [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) | [github.com/yourusername](https://github.com/yourusername)
 
 ---
 
 ## 💼 Professional Summary
 
-Site Reliability Engineer with 4+ years of hands-on experience in SRE, DevOps, and technical support across cloud-native and hybrid environments. Proven track record in reducing incident response times, automating deployments, and leading cross-functional teams. Skilled in Python, Kubernetes, CI/CD, and observability tooling.
+Concise 2–3 line overview highlighting years of experience, core strengths, and target roles.  
+Example: Experienced Site Reliability Engineer with expertise in cloud-native infrastructure, CI/CD automation, and cross-functional leadership.
 
 ---
 
 ## 🧠 Skills
 
-Python • Bash • JavaScript • TypeScript • SQL • Kubernetes • Docker • REST API  
-Git • Splunk • Grafana • Prometheus • OpsGenie • Jira • TeamCity • CI/CD • AWS  
-Windows • Linux • MacOS • Helm • ArgoCD • React • AirWatch • VMware
+**Languages & Scripting**: Python • Bash • JavaScript • SQL  
+**DevOps & Infrastructure**: Docker • Kubernetes • AWS • Azure • GCP  
+**Monitoring & CI/CD**: Prometheus • Grafana • GitHub Actions • Jenkins • GitLab  
+**Project Management**: Jira • Confluence • Agile • ITIL  
+**Operating Systems**: Linux • macOS • Windows
 
 ---
 
 ## 🏢 Professional Experience
 
-### **Site Reliability Engineer**  
-**Bruin Group LLC** — *Jan 2023 – Present*
-- Led training and onboarding for team members, utilizing Jira and Confluence to standardize processes.
-- Reduced failure turnaround from 10 hours to under 1 hour with RCA scripts (Python, Bash, Splunk).
-- Built and maintained monitoring systems (Prometheus, Grafana, OpsGenie).
-- Enhanced CI/CD workflows using GitLab to boost engineering velocity.
+### **Job Title**  
+**Company Name** — *Start Date – End Date*  
+- Accomplishment or responsibility #1  
+- Accomplishment or responsibility #2  
+- Tools/Technologies used: X, Y, Z
 
-### **Software Support Engineer**  
-**Bruin Group LLC** — *Jun 2021 – Dec 2022*
-- Troubleshot and resolved product issues across APIs, frameworks, and queues.
-- Developed and tested C#/.NET apps and RESTful APIs using SQL Server.
-- Collaborated with QA and engineering teams to prioritize and deliver fixes.
-
-### **MDM Engineer**  
-**Mettel** — *Feb 2020 – May 2021*
-- Installed and configured mobile device applications via cloud platforms.
-- Managed policies and network procedures using VMware AirWatch and Apple DEP.
-- Provided internal documentation and device lifecycle management.
+*Repeat for other roles as needed.*
 
 ---
 
 ## 🚀 Projects
 
-### **Kubernetes Credential Management**
-- Designed and implemented secure secret management using HashiCorp Vault.
-- Led proposal and implementation phases, reducing risk of credential leaks by 80%.
-- Improved DevOps deployment pipeline by integrating centralized secrets handling.
-
-### **Zoovio** — [https://zoovio.netlify.app/](https://zoovio.netlify.app/)
-- Collaborative React + Redux app hosted on Heroku.
-- Integrated Yelp REST API, geolocation, and peer-to-peer video chat with WebRTC.
+### **Project Name**
+- Short description of the project  
+- Technologies used: React, Node.js, MongoDB  
+- URL (if public): [project-link.com](https://project-link.com)
 
 ---
 
 ## 🎓 Education
 
-**B.E., Computer Engineering**  
-The City College of New York – *May 2020*
+**Degree Type, Major**  
+University Name – *Graduation Date*
 
 ---
 
-## 📜 Certifications *(Add if applicable)*
+## 📜 Certifications *(Optional)*
 
-- AWS Certified Cloud Practitioner (In Progress)  
-- Certified Kubernetes Administrator – CKA (Target: 2025)  
-- ITIL Foundation – Completed
+- Certification Name – Issuer – *Year*  
+- Certification Name – In Progress
