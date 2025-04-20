@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ohidur's Resume</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
+  <script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      display: none;
+      color: #111;
+      background: #fff;
+    }
+
+    h1 {
+      font-size: 2em;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.3em;
+    }
+
+    h2 {
+      margin-top: 2em;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.2em;
+    }
+
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media print {
+      body {
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body onload="fetch('resume.md').then(res => res.text()).then(md => { document.body.innerHTML = md.html(md); document.body.style.display = 'block'; });">
+</body>
+</html>
