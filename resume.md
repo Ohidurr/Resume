@@ -1,15 +1,16 @@
-# [Ohidur Rahman]
-📍 [New York, NY] • 📞 [347 224463] • 📧 [O.Rahman_@outlook.com] • 🌐 [https://www.linkedin.com/in/ohidur-rahman/ https://github.com/Ohidurr]
+# Ohidur Rahman
+📍 New York, NY • 📞 347 224463 • 📧 O.Rahman_@outlook.com • 🌐 https://www.linkedin.com/in/ohidur-rahman/ 
+https://github.com/Ohidurr
 
 ---
 
-## 💼 Professional Summary
+## Professional Summary
 
 Site Reliability Engineer with 4+ years of hands-on experience in SRE, DevOps, and technical support across cloud-native and hybrid environments. Proven track record in reducing incident response times, automating deployments, and leading cross-functional teams. Skilled in Python, Kubernetes, CI/CD, and observability tooling.
 
 ---
 
-## 🧠 Skills
+## Skills
 
 Python • Bash • JavaScript • TypeScript • SQL • Kubernetes • Docker • REST API  
 Git • Splunk • Grafana • Prometheus • OpsGenie • Jira • TeamCity • CI/CD • AWS  
@@ -17,7 +18,7 @@ Windows • Linux • MacOS • Helm • ArgoCD • React • AirWatch • VMwar
 
 ---
 
-## 🏢 Professional Experience
+## Professional Experience
 
 ### **Site Reliability Engineer**  
 **Bruin Group LLC** — *Jan 2023 – Present*
@@ -40,7 +41,7 @@ Windows • Linux • MacOS • Helm • ArgoCD • React • AirWatch • VMwar
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### **Kubernetes Credential Management**
 - Designed and implemented secure secret management using HashiCorp Vault.
@@ -53,14 +54,14 @@ Windows • Linux • MacOS • Helm • ArgoCD • React • AirWatch • VMwar
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.E., Computer Engineering**  
 The City College of New York – *May 2020*
 
 ---
 
-## 📜 Certifications *(Add if applicable)*
+## Certifications *(Add if applicable)*
 
 - AWS Certified Cloud Practitioner (In Progress)  
 - Certified Kubernetes Administrator – CKA (Target: 2025)  
