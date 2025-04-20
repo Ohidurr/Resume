@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# PDF resume if generated/exported
+resume.pdf
+
+# VSCode settings or text editor junk (optional)
+.vscode/
+.idea/
+*.swp
