@@ -1,5 +1,5 @@
-# [Your Full Name]
-📍 [City, State] • 📞 [Phone Number] • 📧 [Email Address] • 🌐 [LinkedIn/GitHub URL]
+# [Ohidur Rahman]
+📍 [New York, NY] • 📞 [347 224463] • 📧 [O.Rahman_@outlook.com] • 🌐 [https://www.linkedin.com/in/ohidur-rahman/ https://github.com/Ohidurr]
 
 ---
 
