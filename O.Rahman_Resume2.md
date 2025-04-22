@@ -1,3 +1,10 @@
+---
+layout: default
+title: Resume
+permalink: /resume/
+---
+
+
 # **Ohidur Rahman**
 📍 New York, NY  📞 347-2244  📧 O.Rahman_@outlook.com  🌐 [LinkedIn](https://www.linkedin.com/in/) • [GitHub](https://github.com/Ohidu)
 
